@@ -7,7 +7,8 @@ function rackeadas(vitorias, derrotas) {
    return saldo = vitorias - derrotas;
   }
 
-rackeadas(60,5)
+// escolha a qtd de vitorias,derrotas  
+rackeadas(200,5)
 
 
 // Estrutura de Decisão
